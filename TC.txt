@@ -1,0 +1,18 @@
+Algorithm	Best		Average		Worst		
+	
+Insertion	O(n)		O(n^2)		O(n^2)
+Selection	O(n^2)		
+Merge		O(nlogn)	
+Quick		Ω(nlogn)	θ(nlogn)	O(n^2)
+Min Max		O(n)		
+Binary		O(1)		O(logn)		O(logn)
+Prims		O(elogv)		
+Kruskal		O(elogv)		
+Job Seq		O(n^2)	
+Frc Knap	O(nlogn)	
+APSP FW		O(V^3)	
+CS		O(m*n)	
+N-queen		O(n!)		
+SOS		O(2^n)	
+Rabin		O(n+m)		O(n+m)		O(nm)
+Naive		O(n)				O(n^2)	
